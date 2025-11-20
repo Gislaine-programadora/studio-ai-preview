@@ -1,12 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<img width="1348" height="601" alt="image" src="https://github.com/user-attachments/assets/4e373875-100a-4990-a64c-dd6a96fe1fc1" />
+
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+##  STUDIO-AI-PREVIEW   PROJETO FUNCIONAL PRONTO PARA USO
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## MODO DE USO 
+
+ABRE SEU PROJETO COM HTML  SO APERTAR O  PREVIEW SEM SAIR DA PAGINA SEU PROJETO FICA REAL  
+
+## MAIS FUNCIONALIDADES chat AI
+
+ACESSE O CHAT ai  DISPONIVEL PARA O USO  
+
 
 ## Run Locally
 
@@ -15,6 +21,6 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+´npm run dev
+
+FEITO COM CARINHO GISLAINE-DESEMVOLVEDORA 🌹
